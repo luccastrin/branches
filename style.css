@@ -17,3 +17,20 @@ a {
 li {
 	list-style: none;
 }
+
+#header {
+    float: left;
+    width: 100%;
+    padding: 30px 0;
+}
+
+#header .logo {
+    float: left;
+    width: 20%;
+    margin-right: 10%;
+}
+
+#header nav {
+    float: left;
+    width: 70%;
+}
